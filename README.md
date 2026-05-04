@@ -39,5 +39,8 @@ A retro-style, first-person horror game developed in Unity. The player is trappe
 3. Load the `Main Menu` scene located in the `Assets/Scenes` folder.
 4. Press Play to start the game.
 
+## Itch.io
+https://simonklamka.itch.io/no-snake-maze
+
 ## Author
 * **Szymon Marczuk** - [GitHub Profile](https://github.com/MarczukMobbyn)
