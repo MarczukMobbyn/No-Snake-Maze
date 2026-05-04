@@ -4,6 +4,8 @@ A retro-style, first-person horror game developed in Unity. The player is trappe
 
 ## Gameplay Preview
 ![Gameplay Preview](Media/gameplay.gif)
+
+*screenshots*
 ![Main Menu](Media/screenshot1)
 ![Monster Encounter](Media/screenshot2.png)
 ![Interactable Lever](Media/screenshot3.png)
